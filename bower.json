@@ -1,0 +1,24 @@
+{
+  "name": "julissaroa_co",
+  "homepage": "https://github.com/JulsR/julissaroa_co",
+  "authors": [
+    "JulsR <julissaroa.w@gmail.com>"
+  ],
+  "description": "portfolio",
+  "main": "julissaroa",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
